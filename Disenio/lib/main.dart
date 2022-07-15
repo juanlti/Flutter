@@ -20,6 +20,7 @@ class MyApp extends StatelessWidget {
         'pageMain': (context) => const BasicDesingScren(),
         'ScrollScreens': (context) => const ScrollScreens(),
         'HomeScreen': (context) => const HomeScreen(),
+        
       },
     );
   }
